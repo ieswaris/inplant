@@ -1,0 +1,370 @@
+*{
+    margin:0px;
+    
+}
+.main-body{
+    color: rgb(250, 244, 244);
+    background-color: rgb(15, 0, 0);
+    height: 95vh;
+    
+
+}
+.main-content{
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+   
+}
+.body-head{
+    
+    padding-bottom: 20px;
+}
+.top-menu{
+    padding-left:60px;
+    font-size: 13px;
+}
+.top-menu:hover{
+    color: rgb(0, 251, 255);
+}
+.main-heading{
+    padding-left: 5px;
+    padding-right: 200px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.top-button{
+    padding-left: 200px;
+}
+.top-button-second{
+    padding-left: 20px;
+}
+.center-body{
+    padding-right:30px;
+    padding-left:30px;
+    padding-top:10px;
+    padding-bottom:20px;
+    /* border: 2px solid yellow;  */
+    
+}
+
+.center-body-top{
+    display: flex;
+}
+.center-body-main{
+    margin-right: 30px;
+    
+}
+
+.button:hover{
+    background-color: aquamarine;
+    
+}
+.button{
+    color: rgb(250, 244, 244);
+    background-color: black;
+    border-radius: 30px;
+    border:1px solid white;
+    padding: 10px;
+
+}
+.button-second{
+    padding-left:5px;
+    padding-right: 20px;
+    
+}
+#button-first{
+    padding-left: 6px;
+    padding-right: 10px;
+    
+}
+#btn{
+background-color: rgb(153, 206, 74);
+    color: black;
+    width: 120px;
+}
+.main-body-left-container{
+    max-width: 50%;
+   
+    padding-right: 50px;
+    
+}
+
+.main-body-buttom-container{
+    display: flex;
+}
+
+.main-buttom{
+    background-color: white;
+    color:black
+}
+.main-body-left-text{
+
+    font-size: 65px;
+    font-weight:100;
+}
+.main-body-left-second-text{
+    font-weight: bold;
+}
+.main-body-left-third-text{
+    background-color: rgb(153, 206, 74);
+    color:black;
+}
+.main-body-second-para{
+    padding-top: 40px;
+    padding-right: 90px;
+    font-weight: lighter;
+    padding-bottom: 30px;
+}
+.image-middle>img{
+    clip-path: circle();
+    width: 30px;
+
+}
+.main-body-buttom-inline{
+    display: flex;
+}
+.image-middle{
+    margin-left:-11px ;
+    
+}
+.middle-image{
+    padding-left: 50px;
+}
+.main-body-buttom-container{
+    padding-top: 50px;
+}
+.buttom-first-container{
+    display: flex;
+    padding: 10px;
+    background-color: rgb(80, 193, 92);
+    color: black;
+    margin-right: 2px;
+    border-radius: 10px;
+}
+.buttom-second-container{
+    display: flex;
+    padding: 10px;
+    background-color: rgb(246, 248, 140);
+    color: black;
+    margin-right: 2px;
+    border-radius: 10px;
+}
+.buttom-third-container{
+    display: flex;
+    padding: 10px;
+    background-color: rgb(230, 224, 230);
+    color: black;
+    margin-right: 2px;
+    border-radius: 10px;
+}
+.one{
+    background-color: white;
+    color: black;
+    text-align:center;
+    
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    border:1px black solid;
+    display: inline-block;
+    margin-right:20px ;
+}
+.two{
+    background-color: rgb(7, 0, 0);
+    color: rgb(253, 249, 249);
+    text-align:center;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    border:1px black solid;
+    display: inline-block;
+    margin-right:20px ;
+}
+.three{
+    background-color: rgb(7, 0, 0);
+    color: rgb(253, 249, 249);
+    text-align:center;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    border:1px black solid;
+    display: inline-block;
+    margin-right:20px ;
+}
+.bfcfp{
+    display: flex;
+    flex-direction: column;
+
+}
+.bfcfp-one{
+    width: 450px;
+}
+.bfcfp-second{
+    width: 350px;
+}
+.bfcfp-three{
+    width: 330px;
+}
+.first-topic{
+    font-size: 15px;
+    font-weight: bold;
+}
+.second-topic{
+    font-size:12px;
+    font-weight: lighter;
+}
+.main-buttom-first{
+    background-color: black;
+    color: white;
+    border-radius: 40px;
+    padding: 10px;
+}
+.main-buttom-first-one{
+    background-color: white;
+    color: black;
+    border-radius: 40px;
+    margin-left: 10px;
+    text-align: center;
+    padding: 2px;
+}
+.bottom{
+    display: flex;
+    padding: 13px;  
+}
+.kkk{
+    padding-left: 30px;
+    display: flex;
+   
+    
+}
+.buttom-one{
+    display: flex;
+}
+.leaf{
+    background-color: rgb(175, 249, 79);
+    color: rgb(14, 8, 8);
+    text-align:center;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    border:1px black solid;
+    display: inline-block;
+    margin-right:20px ;
+    padding: 10px;
+}
+
+.bottom-text{
+    padding-left: 150px;
+    padding-right: 100px;
+    max-width: 15%;
+    line-height:20px;
+    word-spacing: 5px;
+    font-weight:400;
+    /* border: 1px solid red; */
+}
+.bottom-three-container{
+   
+    border-radius: 20px;
+ border: 1px solid rgb(15, 15, 16);
+ padding-top: 10px;
+
+}
+.bottom-three-container-first{
+    /* border: 1px solid black; */
+    border-radius: 20px;
+    padding:10px ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 23px;
+    
+
+}
+.bottom-first{
+    /* background-color: lightgreen; */
+    border-right: 1px solid rgb(23, 1, 1);
+}
+
+.bottom-second{
+
+    margin-left: -20px;
+    border-right: 1px solid rgb(23, 1, 1);
+}
+.bottom-third{
+    margin-left: -20px;
+}
+/* .mm{
+    display: inline;
+    align-items: center;
+} */
+.right-cintainer-space{
+    padding-left: 60px;
+    
+}
+.right-container{
+    max-width:80px;
+background-color: rgb(8, 0, 0);
+    color: rgb(251, 246, 246); 
+    padding-right: 300px;
+    padding-left: 5px;
+    padding-bottom: 50px;
+    /* line-height: 20px; */
+    font-size: 20px;
+    border-radius: 20px;
+    
+}
+.right-two{
+    display: flex;
+}
+.right-two-back{
+    background-color: rgb(254, 253, 253);
+    color: rgb(7, 0, 0);
+    border-radius: 20px;
+    padding: 50px;
+}
+
+.right-three-img>img{
+    border-top: 40px solid rgb(35, 211, 35);
+    border-radius: 20px;
+    width: 380px;
+    height: 180px;
+}
+
+.right-three{
+    display: flex;
+    flex-direction: row;
+}
+.tech{
+    background-color: white;
+    border: 1px solid black;
+    color: black;
+    padding: 8px; 
+    max-width: 40px;
+    margin-left: -30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 20px;
+    background-color: white;
+    
+}
+.right-four{
+    
+    padding-bottom:10px ;
+    padding: 40px;
+}
+.me{
+    display: flex;
+    flex-direction: column;
+}
+.last{
+    padding: 10px;
+    margin-left: 80px;
+    background-color: bisque;
+}
+.image-middle-buttom{
+    margin-left:-11px ;
+}
+.image-middle-buttom>img{
+    clip-path: circle();
+    width: 40px;
+
+}
